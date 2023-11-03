@@ -1,6 +1,7 @@
 # women_safety_app
 
-A new Flutter project.
+This is a flutter based women safety sos alert application
+
 
 ## Getting Started
 
